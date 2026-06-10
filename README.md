@@ -15,5 +15,5 @@ O projeto em desenvolvimento.
 Versão: 1.1
 
 ## Como rodar:
-1. Baixe o projeto completo e abra no VScode.
+1. Clone o projeto completo e abra no VScode.
 2. Abra o arquivo main.py e execute no terminal.
